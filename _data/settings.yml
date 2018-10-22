@@ -21,6 +21,9 @@ menu:
 
 # cd ../N && cat ../../lecheader.txt N.txt > temp && mv temp N.md; rm -f N.txt N.html Makefile
 
+# link to the main website
+# [{{ site.data.settings.url }}]({{ site.data.settings.url }})
+
 # center an image - https://stackoverflow.com/a/31712482/2276247
 # {:refdef: style="text-align: center;"}
 # ![My Image]({{ site.baseimg }}/images/example1.png)

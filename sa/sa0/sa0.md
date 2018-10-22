@@ -18,7 +18,7 @@ instructions.
 
 2. Familiarize yourself with the layout of the CS 10 web site.  All
    materials for the course, other than the textbook, will reside on
-   the website, [http://www.cs.dartmouth.edu/~traviswp/cs10/](http://www.cs.dartmouth.edu/~traviswp/cs10/)
+   the website, [{{ site.data.settings.url }}]({{ site.data.settings.url }})
    or on the course [Canvas](https://canvas.dartmouth.edu/) site.
 
 ## Reading ##
@@ -44,8 +44,8 @@ assignments are due at 10:00 am.
 
 2. Fill out both of these forms:
 
-    * [section sign-up](http://tinyurl.com/pe7ot7s)
-    * [availability form](http://goo.gl/forms/Gn48uauePC)
+    * **[Removed old Google Docs sign-up sheet.]**
+    * **[Removed old Google Docs time-slot availability sheet.]**
 
     so that we can get you into a recitation section. I know it is weird to fill out two
     forms for this but the second form will help us in the event that our current scheduled
