@@ -1,5 +1,2 @@
-markdown: kramdown # use <TAG markdown="1"> to render markdown within HTML tags!
-  auto_ids: true # Auto-generate ID's for headings
-
 theme: jekyll-theme-cayman
-# highlighter:         rouge
+markdown: kramdown # use <TAG markdown="1"> to render markdown within HTML tags!
