@@ -1,0 +1,16 @@
+http://www.quora.com/What-are-the-top-10-things-a-beginner-should-definitely-know-about-Java
+
+1. Java is an Object Oriented Programming language
+2. Java programs run on a special software called Java Virtual Machine
+3. Java Virtual Machine is supported by many operating system, and this is what makes Java cross-platforms, meaning that you can "write once and run anywhere"
+4. To install Java Virtual Machine, you need to download and install Java Runtime Environment (JRE)
+5. However, to have tools to develop Java applications, you need to download and install Java Development Kit (JDK). The lastest version is 8. If you download JDK, you don't need to download JRE because it is already in JDK.
+6. The most popular Java IDEs are Eclipse and Netbeans. Both are free.
+7. With Java, you can build desktop applications, games, web sites, embedded systems. Those can have versions on mobiles as well.
+8. Java has 4 platforms:
+    - Java Standard Edition: contains all core libraries and functionalities
+    - Java Enterprise Edition: contains frameworks and libraries to build applications that are used mostly in enterprises
+    - Java Micro Edition: contains frameworks and libraries to build applications that runs on micro devices like mobiles, tablets
+    - Java FX: contains graphic libraries to build rich client applications that operate consistently across diverse platforms
+9. Most of the high layers in the famous mobile OS Android is build on Java, so learn Java if you want to build android applications
+10. The best source to learn Java is where it is invented: The Java™ Tutorials

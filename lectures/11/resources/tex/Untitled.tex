@@ -1,0 +1,43 @@
+\documentclass{article}
+\usepackage{amsmath}
+\usepackage{mathtools}
+
+\begin{document}
+
+Consider $f(n) = 1000n^{2}$. \\
+
+I claim that this function is $\theta(n^2)$. \\
+
+Since we can chose $c_{1} = 1000$ and $c_{2} = 1000$. Thus, \\ 
+
+$c_{1}n^{2} \leq 1000n^{2} \leq c_{2}n^{2}$  \\
+
+$1000n^{2} \leq 1000n^{2} \leq 1000n^{2}$  \\ \\ \\
+
+
+
+
+
+Consider $f(n) = n^{2}+1000n$. \\
+
+I claim that this function is $\theta(n^2)$. \\
+
+If I choose $c_1=1$, then I have $n^2+1000n \ge c_1n^2$, and so this side of the inequality is taken care of. \\
+
+The other side is a bit tougher: Need to find a constant $c_2$ s.t. for sufficiently large $n$, I'll get that $n^2+1000n \leq c_2 n^2$. \\
+
+Subtracting $n^2$ from both sides gives $1000n \leq c_2n^2-n^2=(c_2-1)n^2$. \\
+
+Dividing both sides by $(c_2-1)n$ gives $\frac{1000}{c_2-1} \leq n$. \\
+
+Now, I pick $c_2=2$, so that the inequality becomes $\frac{1000}{2-1} \leq n$, or $1000 \leq n$. \\
+
+Now I'm in good shape, because I have shown that if I choose $n_0=1000$ and $c_2=2$, then for all $n \ge n_0$, I have $1000 \leq n$, which we saw is equivalent to $n^2+1000n \leq c_2n^2$. \\ \\ \\
+
+
+
+In combination, constant factors and low-order terms don't matter. If we consider a function like $1000n^2-200n$, we can ignore the low-order term $200n$ and the constant factor $1000$, and therefore we can say that $1000n^2-200n$ is $\theta(n^2)$.
+
+
+
+\end{document}

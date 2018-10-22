@@ -1,0 +1,126 @@
+=============== SCOTS SCHEDULE =================
+
+Week 1
+
+    Monday, September 15: Introduction. Object-oriented programming and Java. 
+    Reading: Chapter 1; Chapter 1, Sections 2.1-2.2 (PSDS). 
+    Short assignment 0 out.
+
+    Wednesday, September 17: Classes and objects. 
+    Reading: Sections 2.3-2.4 (PSDS). 
+    Short assignment 1 out.
+
+    Thursday, September 18 (x-hour): Finish classes and objects. Arrays. Interfaces and polymorphism. 
+    Reading: Ch. 2 (except 2.4), 3.1.
+
+    Friday, September 19: Inheritance. 
+    Reading: Section 7.1-7.2. 
+    Short assignment 2 out.
+
+Week 2
+
+    Monday, September 22: ArrayLists, Image processing. 
+    Reading: Ch. 3 (PSDS). 
+    Short assignment 3 out.
+
+    Wednesday, September 24: Linked lists. 
+    Reading: Ch. 3.2-3.5. 
+    Lab assignment 1 out.
+
+    Friday, September 26: Graphics, GUI components, Listeners, Callbacks. 
+    Short assignment 4 out.
+
+Week 3
+
+    Monday, September 29: More on GUIs.
+
+    Wednesday, October 1: Abstract Classes. 
+    Lab assignment 2 out. 
+    Short assignment 5 out.
+
+    Friday, October 3: No class.
+
+Week 4
+
+    Monday, October 6: Review of Algorithm Analysis. Stacks, Queues, Dequeues. 
+    Reading: Chapters 4 and 6.
+
+    Wednesday, October 8: Iterators, with List examples. 
+    Reading: Sections 7.3-7.5. 
+    Lab assignment 3 out. 
+    Short assignment 6 out.
+
+    Friday, October 10: Trees. 
+    Reading: Chapter 8. 
+    Short assignment 7 out.
+
+Week 5
+
+    Monday, October 13: Traverals, Expression Trees, Exceptions.
+
+    Wednesday, October 15: Heaps and Priority Queues. 
+    Reading: Section 2.4 and Chapter 9. 
+    Lab assignment 4 out. 
+    Short assignment 8 out.
+
+    Friday, October 17: Maps, Sets, and Instant Runoff Elections. 
+    Reading: Section 10.1, 10.5. 
+    Short assignment 9 out.
+
+Week 6
+
+    Monday, October 20: Hash tables. 
+    Reading: Sections 10.2-10.3.
+
+    Wednesday, October 22: Binary Search Trees. 
+    Reading: Section 11.1
+
+    Thursday, October 23 (x-hour): Review for Midterm. Midterm at 6:30 pm, Cook Auditorium in Murdough.
+
+    Friday, October 24: Graphs and their Representations. 
+    Reading: Sections 14.1-14.2. 
+    Short assignment 10 out.
+
+Week 7
+
+    Monday, October 27: Graph traversals (BFS, DFS). 
+    Reading: Section 14.3.
+
+    Wednesday, October 29: Shortest Paths (Dijkstra's) and A* search. 
+    Reading: Section 14.6. 
+    Lab assignment 5 out.
+
+    Friday, October 31: More GUIs. Search - Backtracking. 
+    Short assignment 11 out.
+
+Week 8
+
+    Monday, November 3: Game tree search.
+
+    Wednesday, November 5: Kalah and the Model/View/Controller Pattern. 
+    Lab assignment 6 out. 
+    Short assignment 12 out.
+
+    Friday, November 7: Balanced binary search trees. 
+    Reading: Sections 11.2, 11.5, 11.6.
+
+Week 9
+
+    Monday, November 10: Skip Lists. 
+    Reading: Section 10.4.
+
+    Wednesday, November 12: Edit distance. Spelling corrector.
+
+    Thursday (optional x-hour), November 13: More on backtracking and alpha-beta pruning of game trees.
+
+    Friday, November 14: Concurrency and Threads. Synchronization
+
+Week 10
+
+    Monday, November 17: Concurrency and Deadlocks.
+
+    Wednesday, November 19, 10 am: Review for the final exam. Filene Auditorium in Moore Hall
+
+Week 11
+
+    Sunday, November 23, 11:30 am. Final exam for the 2-hour section. Steele 006.

@@ -1,0 +1,7 @@
+    <div class="menu">
+        <div class="menu-content">
+            {% for item in site.data.settings.menu %}
+            <a class="menu-item" href="{{ site.github.url }}/{{ item.url }}">{{ item.name }}</a>
+            {% endfor %}
+        </div>
+    </div>

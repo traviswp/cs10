@@ -1,0 +1,132 @@
+=============== TOMS SCHEDULE =================
+
+### Week 1: Java
+
+* Monday, [March 24](lectures/0324/0324.html): Introduction.
+  Object-oriented programming and Java.  [Short assignment
+  0](sa/sa0/sa0.html) out.
+
+* Wednesday, [March 26](lectures/0326/0326.html): Classes and objects.
+  Reading: Chapter 1, Sections 2.1&ndash;2.3.  [Short assignment
+  1](sa/sa1/sa1.html) out.
+
+* Thursday, March 27 (x-hour): *Optional* session for students who
+  have not seen classes and objects before or who want to brush up on
+  them.
+
+* Friday, [March 28](lectures/0328/0328.html): More about classes and
+  objects.  Arrays.  Interfaces and polymorphism.  [Short assignment
+  2](sa/sa2/sa2.html) out.  Reading: Section 3.1.
+
+### Week 2: Polymorphism and linear structures
+
+* Monday, [March 31](lectures/0331/0331.html): Console input,
+  ArrayLists, and inheritance.  Reading: Section 7.2.  [Short
+  assignment 3](sa/sa3/sa3.html) out.
+
+* Wednesday, [April 2](lectures/0402/0402.html): More on inheritance.
+  [Short assignment 4](sa/sa4/sa4.html) out.
+
+* Friday, [April 4](lectures/0404/0404.html): Graphics.  GUI
+  components.  Listeners and callbacks.  [Short assignment
+  5](sa/sa5/sa5.html) out.
+
+### Week 3: User interaction
+
+* Monday, [April 7](lectures/0407/0407.html): More on GUIs.  [Short
+  assignment 6](sa/sa6/sa6.html) out.
+
+* Wednesday, [April 9](lectures/0409/0409.html): Abstract classes.
+  Access control.  Adapter classes.  Inheritance vs. interfaces.
+  Linked lists.  Reading: Sections 3.2&ndash;3.4.  [Lab assignment
+  1](lab/lab1/lab1.html) out.
+
+* Friday, [April 11](lectures/0411/0411.html): Linked lists.  [Short
+  assignment 7](sa/sa7/sa7.html) out.
+
+### Week 4:  Basic abstract data types
+
+* Monday, [April 14](lectures/0414/0414.html): More about linked
+  lists.  Review of algorithm analysis.  Reading: Chapter 4.
+
+* Wednesday, [April 16](lectures/0416/0416.html): Stacks, queues, and
+  dequeues.  Iterators.  Lab assignment 1 due.  Reading: Chapter 6.
+  [Short assignment 8](sa/sa8/sa8.html) out.
+
+* Friday, April 18: *No class.*
+
+### Week 5: Trees, heaps, maps, and sets
+
+* Monday, [April 21](lectures/0421/0421.html): Iterators.  Trees and
+  binary trees.  Reading: Chapter 8.  [Short assignment
+  9](sa/sa9/sa9.html) out.
+
+* Wednesday, [April 23](lectures/0423/0423.html): Exceptions.  Heaps
+  and priority queues.  Reading: Section 2.4 and Chapter 9.  [Short
+  assignment 10](sa/sa10/sa10.html) out.
+
+* Thursday, [April 24](lectures/0424/0424.html) (x-hour): Heaps and
+  heapsort.  Maps and sets.  Instant runoff elections.  Reading:
+  Section 10.1.
+
+* Friday, [April 25](lectures/0425/0425.html): Hash tables.  Reading:
+  Section 10.2.  [Short assignment 11](sa/sa11/sa11.html) out.
+
+### Week 6:  Binary search trees
+
+* Monday, [April 28](lectures/0428/0428.html): Binary search trees.
+  Reading: Section 11.1.  [Lab assignment 2](lab/lab2/lab2.html) out.
+
+* Wednesday, April 30: Guest presentation by Chandlee Bryan of the
+  Center for Professional Development and Natalie Hoyt from the
+  Undergraduate Dean's Office.  *Try to attend the celebration for the
+  [50th anniversary of BASIC](http://www.dartmouth.edu/basicfifty/) in
+  the afternoon*.
+
+* Friday, [May 2](lectures/0502/0502.html): More on binary search
+  trees. Traversals and expression trees.  *Exam review session
+  3:00-4:15 pm, **in LSC 200** (not LSC 201).*
+
+### Week 7: Graphs
+
+* Monday, [May 5](lectures/0505/0505.html): Graphs and how to
+  represent them.  Reading: Sections 14.1&ndash;14.2.  *Midterm exam
+  at 6:30 pm, LSC 100 (Oopik Auditorium).*
+
+* Wednesday, [May 7](lectures/0507/0507.html): Traversing a graph with
+  breadth-first and depth-first search.  Reading: Section 14.3.  Lab
+  assignment 2 due.  [Lab assignment 3](lab/lab3/lab3.html) out.
+
+* Friday, [May 9](lectures/0509/0509.html): Dijkstra's algorithm for
+  shortest paths.
+
+### Week 8: Game tree search
+
+* Monday, May 12: *No class.*
+
+* Wednesday, [May 14](lectures/0514/0514.html): Game tree search.  Lab
+  assignment 3 due.  [Lab assignment 4](lab/lab4/lab4.html) out.
+
+* Thursday, May 15 (x-hour): More on game tree search.
+
+* Friday, May 16: *No class.*
+
+### Week 9:  Efficient search structures
+
+* Monday, [May 19](lectures/0519/0519.html): Red-black trees.
+  Reading: Sections 11.3&ndash;11.6.
+
+* Wednesday, May 21: *No class.* Lab assignment 4 due.
+
+* Friday, May 23: *No class.*
+
+### Week 10: Wrap up
+
+* Monday, May 26: *No class.*  First day of reading period.
+
+* Wednesday, May 28: Wrap up.
+
+* Thursday, May 29: Review session for final exam, 12:30&ndash;2:30
+  pm, 008 Kemeny.
+
+* Saturday, May 31: *Final exam at 8:00 am, LSC 100.*

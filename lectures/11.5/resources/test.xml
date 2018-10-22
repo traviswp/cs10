@@ -1,0 +1,12 @@
+<enrollment>
+  <course department="CS" number="1" term="12F">
+    <student name="Alice" year="13" />
+    <student name="Bob" year="15" />
+    <student name="Charlie" year="13" />
+  </course>
+  <course department="CS" number="10" term="12F">
+    <student name="Delilah" year="12" />
+    <student name="Elvis" year="14" />
+    <student name="Flora" year="14" />
+  </course>
+</enrollment>

@@ -1,0 +1,34 @@
+# Website Settings
+title: Problem Solving Via Object-Oriented Programming
+description: Archive of my cs10 course website used in Winter 2015.
+author: Travis Peters
+url: https://traviswp.github.io/cs10/
+baseurl:
+avatar: profile.png
+email: traviswp@cs.dartmouth.edu
+
+#
+# Site Menus
+# > CS10: Winter 2015
+menu:
+- {name: 'Syllabus', url: ''}
+- {name: 'Schedule', url: 'schedule.html'}
+- {name: 'Short Assignments', url: 'sa/short_assignments.html'}
+- {name: 'Labs', url: 'lab/lab_assignments.html'}
+- {name: 'Exams', url: 'exams.html'}
+- {name: 'Course Software', url: 'software.html'}
+- {name: 'Get Help', url: 'help.html'}
+
+# cd ../N && cat ../../lecheader.txt N.txt > temp && mv temp N.md; rm -f N.txt N.html Makefile
+
+# center an image - https://stackoverflow.com/a/31712482/2276247
+# {:refdef: style="text-align: center;"}
+# ![My Image]({{ site.baseimg }}/images/example1.png)
+# {: refdef}
+
+# table of contents / outline
+# ## Outline
+# {:.no_toc}
+#
+# * Outline
+# {:toc}
