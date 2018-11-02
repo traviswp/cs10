@@ -7,7 +7,7 @@ title: Exams
 
     > Review materials have been posted on Canvas under "Files".
 
-* Final Exam: Friday, March 13, 8:00 am (Location TBA).
+* Final Exam: Friday, March 13, 8:00 am (LSC 100).
 
     > Review materials will be posted on Canvas under "Files" when we get closer to the time of the final exam.
 
