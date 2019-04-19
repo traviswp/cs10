@@ -1,10 +1,10 @@
 markdown: kramdown # use <TAG markdown="1"> to render markdown within HTML tags!
 mathjax: true
 
-theme: jekyll-theme-modernist
+# theme: jekyll-theme-modernist
 # -> https://github.com/pages-themes/modernist
 
-# theme: jekyll-theme-leap-day
+theme: jekyll-theme-leap-day
 # -> https://github.com/pages-themes/leap-day
 
 # theme: jekyll-theme-cayman
