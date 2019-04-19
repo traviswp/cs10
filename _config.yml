@@ -4,10 +4,10 @@ mathjax: true
 # theme: jekyll-theme-modernist
 # -> https://github.com/pages-themes/modernist
 
-theme: jekyll-theme-leap-day
+# theme: jekyll-theme-leap-day
 # -> https://github.com/pages-themes/leap-day
 
-# theme: jekyll-theme-cayman
+theme: jekyll-theme-cayman
 # -> https://github.com/pages-themes/cayman
 
 # theme: jekyll-theme-dinky
