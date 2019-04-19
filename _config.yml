@@ -1,15 +1,17 @@
-theme: jekyll-theme-dinky
 markdown: kramdown # use <TAG markdown="1"> to render markdown within HTML tags!
 mathjax: true
+
+theme: jekyll-theme-modernist
+# -> https://github.com/pages-themes/modernist
+
+# theme: jekyll-theme-leap-day
+# -> https://github.com/pages-themes/leap-day
+
+# theme: jekyll-theme-cayman
+# -> https://github.com/pages-themes/cayman
 
 # theme: jekyll-theme-dinky
 # -> https://github.com/pages-themes/dinky
 
-# theme: jekyll-theme-modernist
-# -> https://github.com/pages-themes/modernist
-
 # theme: jekyll-theme-minimal
 # -> https://github.com/pages-themes/minimal
-
-# theme: jekyll-theme-leap-day
-# -> https://github.com/pages-themes/leap-day
