@@ -391,7 +391,7 @@ section leaders, the TA, and myself. Rather than emailing questions to the teach
 staff, I encourage you to post your questions on Piazza. **Never include your
 own code in a post to Piazza.**
 
-Please go to the [Help](http://www.cs.dartmouth.edu/~traviswp/cs10/help.html)
+Please go to the [Help](https://www.traviswpeters.com/cs10/help.html)
 page to find links where you can sign-up and use Piazza.
 
 The Tutor Clearinghouse is another source of help.  They will have
@@ -471,7 +471,7 @@ Windows and Mac OS X.  You will install this software on your own
 computer as part of the first short assignment.
 
 For more information about the software we will use, please see the
-**[Course Software](http://www.cs.dartmouth.edu/~traviswp/cs10/software.html)**
+**[Course Software](https://www.traviswpeters.com/cs10/software.html)**
 page (link located at the top of this page).
 
 Unfortunately for Windows users (and, yes, we know that many Dartmouth
@@ -491,8 +491,8 @@ you'll be able to work on your own code.
 ## The Web
 
 All documents, class examples, lab assignments, short assignments, and
-sample solutions related to the course will be on the web: [https://traviswp.github.io/cs10/](https://traviswp.github.io/cs10/).
-<!-- <a href="http://www.cs.dartmouth.edu/~traviswp/cs10/">http://www.cs.dartmouth.edu/~traviswp/cs10/</a>. -->
+sample solutions related to the course will be on the web: [https://www.traviswpeters.com/cs10](https://www.traviswpeters.com/cs10).
+<!-- <a href="https://www.traviswpeters.com/cs10/">https://www.traviswpeters.com/cs10/</a>. -->
 
 ## Honor Principle
 
